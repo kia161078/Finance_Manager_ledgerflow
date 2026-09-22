@@ -139,3 +139,5 @@ https://github.com/user-attachments/assets/fa5fa16d-10c7-44c6-b23b-1653353f8ff1
 Code
 flutter pub get
 flutter run
+
+## Follow DevMind for real project breakdowns, AI, Flutter and software development: https://t.me/DevMindAI
